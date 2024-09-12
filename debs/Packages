@@ -1,0 +1,112 @@
+Package: com.dumpapp.wechat-rootless
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 24000
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./锤子助手-Rootless_2.0.1_iphoneos-arm64.deb
+Size: 9334272
+MD5sum: b824064afa776b444eede745e935659e
+SHA1: bfc5629713906979749aa91a17cd79eba96024bf
+SHA256: 2754234ae75d92cdb1724c6d56d45771cd5adaa1e8ae35caec34e03bd874ac8b
+Section: Tweaks
+Description: 锤子助手插件
+Author: DumpApp
+Name: 锤子助手-Rootless
+
+Package: netskao.cccellularrate-rootless
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 616
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./CCCellularRate-Rootless_1.1-1_iphoneos-arm64.deb
+Size: 89908
+MD5sum: 6d5bdf764d708cba95754192da5d88bb
+SHA1: d40dbf63ecb3f82941ef309dc53810adc761b2ad
+SHA256: 67e8f5d228c2cc6049f1dde550398e6fc9d39ecc23e0b60c73315ec12cb5d0db
+Section: Netskao-Tweaks
+Description: Quickly switch the type of cellular data 2/3/4/5G currently in use via the Control Center, only the types supported in the current device settings will be displayed
+Author: Netskao
+Name: CCCellularRate-Rootless
+
+Package: netskao.ccpower-rootless
+Version: 1.9-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2424
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport (>= 1.3)
+Filename: ./CCPower-Rootless_1.9-4_iphoneos-arm64.deb
+Size: 957392
+MD5sum: c70f40543c36f22c74ad719654a760aa
+SHA1: e85a5f4399de443cb7a9a04a1939a55a98a88436
+SHA256: f6625e60c0752ccdc44c58d02fa796fb6618bb1768e656646f85e65f80e36726
+Section: Netskao-Tweaks
+Description: Control Center Quick Power Tool, Supports iOS11-iOS15
+Author: Netskao
+Name: CCPower-Rootless
+
+Package: netskao.ccsim-rootless
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 188
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./CCSIM-Rootless_1.1-9_iphoneos-arm64.deb
+Size: 23436
+MD5sum: 07b455b361409703b15626d37d29da86
+SHA1: 657230e58a3a9d9cde71c5e2f7daeb9debbb3101
+SHA256: 4cbd3973308d8331380a2b067746c4d6427a8c3abd54e39459e2d0f317946ea1
+Section: Netskao-Tweaks
+Description: For dual-SIM cards, you can quickly enable or disable one of the SIM cards through the Control Center
+Author: Netskao
+Name: CCSIM-Rootless
+
+Package: netskao.ccswitchdata-rootless
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 132
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./CCSwitchData-Rootless_1.1-4_iphoneos-arm64.deb
+Size: 20812
+MD5sum: 2c5f52cdd3db4cd7e747b7aef7e94f9a
+SHA1: 2e9223fbcc2e6d60efa1c37529e890a97025f4c0
+SHA256: 3e2c98935c19de125e66942741e96942e93c981f73e598aabee6e20965b2d598
+Section: Netskao-Tweaks
+Description: For dual-SIM cards, the selected cellular network can be switched quickly via the Control Center
+Author: Netskao
+Name: CCSwitchData-Rootless
+
+Package: netskao.killapps-rootless
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2160
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./KillApps-Rootless_1.2-2_iphoneos-arm64.deb
+Size: 932796
+MD5sum: 2a1f46083f0870c0a3add00e1eec3538
+SHA1: 0fa9e9cda24146d697fe5f06ab9358c162e41c82
+SHA256: ca2fbf0aa5c3882b4aecfddfc821090cb8fa5ec24156537593317754e1c60ca9
+Section: Netskao-Tweaks
+Description: Add quick clean all background function for background switcher. Support clean up whitelist, support slide up blacklist
+Author: Netskao
+Name: KillApps-Rootless
+
+Package: netskao.qqpurification-rootless
+Version: 2.3-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1900
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./QQ净化-Rootless_2.3-3_iphoneos-arm64.deb
+Size: 1005308
+MD5sum: 72c1b94a7b75458576eb4967b8f15b52
+SHA1: e7d56d4b5243f4f95d2fc599ae3c27845b0142ce
+SHA256: 1e28ecb2e5ba88e7cbe6c0c63902e1931f14ce11859170adffa74204e9220208
+Section: Netskao-Tweaks
+Description: QQ净化，还原聊天本质，干净的QQ给你，设置位于QQ-设置页面顶部，仅支持8.9.0及以上版本
+Author: Netskao
+Name: QQ净化-Rootless
+
